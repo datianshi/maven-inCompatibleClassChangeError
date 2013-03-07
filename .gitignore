@@ -5,7 +5,7 @@
 
 # Ant and Maven build directories
 /build/
-/target/
+target
 
 # Others
 TEST*
